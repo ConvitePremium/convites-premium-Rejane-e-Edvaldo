@@ -12,7 +12,7 @@ window.CONFIG = {
   },
   localizacao: {
     titulo: 'Programação do nosso casamento',
-    cerimonia: { nome: 'Cerimônia', hora: '18:00', endereco: 'Insira aqui o endereço da igreja', mapa: 'https://maps.app.goo.gl/CrU9FHRMuCcZqhpt6' },
+    cerimonia: { nome: 'Cerimônia', hora: '18:00', endereco: 'Insira aqui o endereço da igreja', mapa: 'https://maps.app.goo.gl/Dt9kduxzdcnZA3Hp6' },
     recepcao: { nome: 'Recepção', hora: '20:30', endereco: 'Insira aqui o endereço da recepção', mapa: 'https://maps.app.goo.gl/4zbRPBnp9r6XCnh89' }
   },
   historia: {
