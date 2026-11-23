@@ -18,9 +18,9 @@ window.CONFIG = {
   historia: {
     quantidadeFotos: 3, // de 3 a 6
     fotos: ['assets/historia1.webp','assets/historia2.webp','assets/historia3.webp','assets/historia4.webp','assets/historia5.webp','assets/historia6.webp'],
-    texto: 'Tudo começou com um olhar e um sorriso. Desde aquele dia, cada momento juntos passou a fazer parte da nossa história. Hoje queremos celebrar nosso amor com as pessoas mais importantes das nossas vidas.'
+    texto: 'Havia quem dissesse que não daria certo . Que éramos diferentes demais, que não duraríamos. Mas o que Deus une, ninguém separa. Ao longo desses 15 anos morando juntos, Ele lapidou nossos corações, nos ensinou a amar mais e a viver um para o outro. O que começou com um simples olhar se transformou em uma vida inteira construída lado a lado. E hoje, com muita gratidão, celebramos e oficializamos essa história abençoada diante do Senhor.'
   },
-  mensagem: { texto: 'Queridos familiares e amigos, a presença de vocês é o presente mais bonito que poderíamos receber. Agradecemos de coração por nos acompanharem no início desta nova etapa das nossas vidas. Será uma alegria imensa compartilhar este dia tão especial com vocês. Esperamos todos com muito carinho!' },
+  mensagem: { texto: 'Existem momentos na vida que se tornam ainda mais especiais quando compartilhados com pessoas queridas. Nosso casamento é um desses momentos, e ter você ao nosso lado tornará esse sonho ainda mais inesquecível. Preparamos este dia com muito amor e carinho, e será uma alegria imensa celebrar o início da nossa história como marido e mulher com você!' },
   animacao: { velocidadeDigitacao: 38 }, // milissegundos por caractere
   // Coordenadas em porcentagem da imagem vertical 9:16. Editáveis em ?editor=1.
   posicoes: {
