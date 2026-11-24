@@ -2,7 +2,7 @@ window.CONFIG = {
   // ENGINE EM PORTUGUÊS; textos dos convidados em português.
   casal: 'Rejane e Edvaldo', dataEvento: '2026-12-19T18:00:00',
   contagem: { mensagemFinal: 'A celebração começou!' },
-  whatsapp: '5588994897535', // Substitua pelo número real, com código do país
+  whatsapp: '5599991355936', // Substitua pelo número real, com código do país
   video: { ativo: true, arquivo: 'assets/video.mp4' },
   musica: { ativa: true, arquivo: 'assets/musica.mp3', volume: 0.35 },
   imagens: {
